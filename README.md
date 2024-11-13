@@ -1,0 +1,4 @@
+Prediction of Energy Consumption in Buildings
+
+The objective of this project is to analyze the energy usage and environmental performance of buildings in Singapore, focusing on understanding factors that contribute to energy efficiency. By examining various features of buildings (such as building size, function, cooling systems, and sustainability certifications), we aim to uncover insights into what makes some buildings more energy-efficient than others.
+Using this dataset, which includes metrics like Energy Use Intensity (EUI) and Green Mark certification ratings, we have built machine learning models (specifically, Decision Trees and Random Forests) to predict energy efficiency. This models will allow us to identify patterns and assess which building characteristics are most closely associated with lower energy consumption.
